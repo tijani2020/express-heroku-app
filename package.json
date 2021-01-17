@@ -1,0 +1,20 @@
+{
+  "name": "nodexpressapp",
+  "version": "1.0.0",
+  "description": "this is just a basic app created to learn Node and Express ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NODE",
+    "JS",
+    "EXPRESS",
+    "SERVER"
+  ],
+  "author": "Abderrahim Tijani",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
